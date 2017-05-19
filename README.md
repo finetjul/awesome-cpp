@@ -286,6 +286,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Graphic User Interface*
 
 * [CEGUI](http://cegui.org.uk/) - Flexible, cross-platform GUI library.
+* [CommonTK](http://www.commontk.org/) Qt widgets for scientific and medical applications. [Apache 2]
 * [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. [GPL2]
 * [GacUI](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. [Ms-PL]
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. [LGPL]
